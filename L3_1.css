@@ -1,0 +1,33 @@
+.main-body{
+    width: 100%;
+    background: blue;
+    color: red;
+
+}
+.header{
+    width: 100%;
+    background: red;
+    height: 100px;
+}
+.content{
+    width: 100%;
+    background-color: black;
+    height: 580px;
+}
+.left-section{
+    width:200px;
+    float: left;
+    height: 580px;
+    background: blue;
+}
+.right-section{
+    width: 200px;
+    float: right;
+    height: 580px;
+    background-color: blue;
+}
+.footer{
+    width: 100%;
+    background-color: yellow;
+    height: 50px;
+}
