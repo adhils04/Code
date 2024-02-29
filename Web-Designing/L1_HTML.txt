@@ -1,0 +1,47 @@
+* 2 parts - head and body
+
+* head - used to give the title of webpage
+
+* body - used to give the contents of webpage
+
+*!DOCTYPE html - used to represent HTML5
+
+* <h1> </h1>,<h2> </h2>,...,<h6> </h6> - headings of different sizes
+
+* <p> </p>- represents paragraph
+
+* <button> </button> - add text inside a button
+
+* <br> - add line break
+
+* <img> </img> - represent image
+
+* <a> </a>- create hyperlinks
+
+* <hr> - to leave a line
+
+* <i> </i> - italic text
+
+* <u> </u> - underline text
+
+* <strong> </strong> - bold text
+
+* <del> </del> - strike text
+
+* List - 2 types - Ordered list and Unordered list
+
+* Ordered list - <ol> </ol> and each item in list comes inside <li> </li>
+
+* Unordered list - <ul> </ul> and each item in list comes inside <li> </li>
+
+* Creating tables - <table> </table>
+	* Table head - <thead> </thead>
+		* Table row - <tr> </tr>
+			* Row heading - <th> </th>
+	* Table body - <tbody> </tbody>
+		* Table row - <tr> </tr>
+			* Row data - <td> </td>
+* To give border to table, use border attribute inside <table> tag
+
+* To manipulate the height and width, use style="width:x%" and style="height:x%" inside the <table> tag
+

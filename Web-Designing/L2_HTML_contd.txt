@@ -1,0 +1,20 @@
+* Creating forms - <form> </form>
+	* Heading of each form - <label> </label>
+	* User input - <input> </input>
+		* User input for text only - <input type="text">
+		* User input for numbers only - <input type="number">
+		* User input for radio buttons - <input type="radio">
+		* User input for email - <input type="email">
+		* User input for dropdown menu - <select> </select>
+			* Each option in the menu - <option> </option>
+		* User input for checkbox - <input type="checkbox">
+		* User input for submit button - <input type="submit" value="Submit">
+
+* Adding videos - <video> </video>
+	* Adding video playback controls - controls attribute inside <video> tag
+	* Giving the path of the video file - <source src="#path#" type=video/mp4/wav/...>
+
+* Adding audio - <audio> </audio>
+	* Giving the path of the audio file - <source src=#path# type=audio/mpeg/mp3/....>
+
+* Adding a preview image of a video file on the web - <iframe src=#website#>

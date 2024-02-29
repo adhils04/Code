@@ -1,0 +1,91 @@
+button{
+    background-color: blueviolet;
+    color: white;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#para1{
+    background-color: red;
+    font-size: 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#para2{
+    background-color: aquamarine;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.content{
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.outer-box{
+    width:500px;
+    height:500px;
+    color: red;
+    font-size: 14px;
+    border: 5px dotted;
+    border-color: black;
+    background-color: yellow;
+    margin-left: 10px;
+    padding-left: 100px;
+}
+.box{
+    margin-left: 100px;
+    padding-left: 50px;
+}
+.inner-div{
+    color:black;
+    border: 5px dotted;
+    background-color: white;
+    margin-top: 215px;
+    margin-right: 40px;
+}
+.outerbox{
+    margin-top: 50px;
+    color: red;
+    background-color: blue;
+    border: 10px solid;
+}
+.box1{
+    color: white;
+    background-color: green;
+    /*border: 7px dotted;*/
+    padding-left: 300px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.box2{
+    color: aqua;
+    background-color: blueviolet;
+    /*border: 7px dotted;*/
+    padding-left: 300px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.box3{
+    color: bisque;
+    background-color: black;
+    /*border: 7px dotted;*/
+    padding-left: 300px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.box4{
+    color: brown;
+    background-color:orange;
+    /*border: 7px dotted;*/
+    padding-left: 300px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+body{
+    margin: 0px;
+}

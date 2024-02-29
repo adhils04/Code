@@ -1,0 +1,31 @@
+* CSS - Cascading Style Sheet
+
+* Adding style inline - <h1 style="color:red">Test</h1> (inline)
+
+* Adding style internal - <style> h1{color:red;font-size:25px} </style> (internal)
+
+* Adding style external - <link href="style.css" type="text/css" rel="stylesheet">
+	* There should be an external file named style.css containing the required style.
+	* The file should be called inside the <head> tag using the <link href=....>
+
+* Adding a colour from online - Type 'colour picker' in Google, choose the colour and copy its corresponding HEX code and paste in HTML code.
+
+* Adding styles to content using 'id' attribute - <h1 id="title">Hello</h1>
+	* Put styles into the 'title' attribute using #<*titlename*> externally
+	* The content with same id can be given only once in the entire html code
+
+* Adding styles to content using 'class' attribute - <p class="content">Hello</p>
+	* The content with same class can be used anywhere any number of times unlike id
+	* Put styles into the 'class' attribute using .<*classname*> externally
+
+* Dividing the parts of a webpage having different characteristics - <div> </div>
+	* Adding styles to div by giving styles in div{} in the css file
+	* Margin of div from the just above element - Use 'margin-<position>' statement.
+	* Give margin to the text inside div - User 'padding-<position>' statement.
+	* 'inner-div' - A box inside the div
+	* 'float' attribute can be used to align the div classes (left/right/etc.)
+	
+
+
+
+
